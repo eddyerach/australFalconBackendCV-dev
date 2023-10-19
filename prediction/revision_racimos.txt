@@ -1,0 +1,16 @@
+Estado 1 vs estado 3
+EN 1 se borra:
+
+1, 73,90
+
+Estado 1 vs estado 4
+En 1 se borra:
+1
+EN estado 4 se borra:
+73 y 90
+
+FInal:
+
+En estado 1 y 2: Borrar 1, 73 y 90
+En estado 3: No se borra nada, es el estado con menos racimos
+En estado 4: Se borra 

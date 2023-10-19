@@ -1,0 +1,48 @@
+#Ignore all .log files
+*.log
+*.csv
+*.csv#
+prediction/.~lock*
+#Ignore all zip, tar, gz files
+*.zip
+*.tar
+*.gz
+*.xz
+#Ignore all pytorch models
+*.pt 
+*.pth
+#Ignore code folders
+/backup/
+grape/nigel/
+/deepsort/
+/pruebas/
+prediction/venv
+prediction/__pycache__
+prediction/venv
+prediction/nigel
+prediction_1_image/__pycache__
+vision_prediction/venv
+
+#Ignore envs folders
+/env/
+/new/
+/new_1/
+#Ignore auxiliary scripts
+aux_download.py
+aux_upload.py
+#Ignore images
+*.JPG
+*.jpg
+*.PNG
+*.png
+*.MOV
+#Ingore Videos
+*.mp4
+*.avi
+#Ignode __pycache__ folders
+__pycache__/
+codigo-racimos/deep_sort/__pycache__/
+codigo-racimos/deep_sort/deep/__pycache__/
+codigo-racimos/deep_sort/sort/__pycache__/
+deep_sort/deep/__pycache__/
+deep_sort/sort/__pycache__/

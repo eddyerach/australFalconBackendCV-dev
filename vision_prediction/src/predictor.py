@@ -1,0 +1,2 @@
+class predictor:
+    x = 'predictor'
